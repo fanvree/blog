@@ -3,7 +3,7 @@ layout: home
 permalink: /
 
 title: "fanvree"
-excerpt: "Tsinghua University Student"
+excerpt: "清华大学学生"
 action: false
 
 feature_rows:
