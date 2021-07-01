@@ -7,8 +7,8 @@ excerpt: "清华大学学生"
 action: false
 
 feature_rows:
-  - title: "Apps"
-    excerpt: "List of apps."
+  - title: "课程"
+    excerpt: "我最喜欢的课程"
     url: "/apps/"
     img_path: "feature_rows/mani_ss_apps.jpg"
     img_alt: "Apps"
